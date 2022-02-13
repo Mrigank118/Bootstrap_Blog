@@ -1,7 +1,7 @@
 <h1 align="center">BootStrap Blog Website</h1>
 
 <img src="GameStation.PNG" alt="IMAGE OF THE GAME"> 
-<h2>This Website has been made compltely using Bootstrap 5</h2>
+<h2>This Website has been made completely using Bootstrap 5</h2>
 <p>Aim of the Website was to learn BootStrap from Basic To Advance. The topic of the website is a simple tech and gaming blog.</p>
 
 
